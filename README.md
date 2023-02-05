@@ -4,7 +4,7 @@ Submitted by: **Swathi Mysore Nagaraja**
 
 **Sea Monster Crowdfundings** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **48** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
